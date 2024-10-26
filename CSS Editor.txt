@@ -1,0 +1,3 @@
+`scoped` ka matlab hai ke CSS sirf us part par lagoo hoti hai jahan yeh likha gaya hai, is se dusre parts par asar nahi hota.
+
+`<style scoped contenteditable>` ka matlab hai ke yeh CSS styles sirf us HTML element ke andar apply hote hain jahan yeh define kiya gaya hai, aur `contenteditable` ka matlab hai ke us element ka content directly browser me edit kiya ja sakta hai. Isay is liye use kiya jata hai taake kisi specific section ko alag styling di ja sake aur wo user ke liye editable ho.
